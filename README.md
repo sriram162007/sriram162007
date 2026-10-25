@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Sri Ram — Senior Full Stack Developer → AI Engineer" width="100%"/>
+  <img src="./assets/banner.svg" alt="Sri Ram — AI Engineer | AI Automation Builder" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/sriram162007">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Architecting+production-grade+Full+Stack+systems;Building+autonomous+AI+agents+%26+LLM+workflows;Next.js+%2B+React+19+%2B+TypeScript+%2B+Gemini+AI;Turning+complex+workflows+into+scalable+digital+products+%F0%9F%9A%80" alt="Typing tagline"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Apps+%26+SaaS+Projects;AI+Engineer+%7C+AI+Automation+Builder;Exploring+React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Firebase;Turning+ideas+into+scalable+intelligent+systems+%F0%9F%9A%80" alt="Typing tagline"/>
   </a>
 </p>
 
@@ -17,36 +17,36 @@
 
 ---
 
-## 🧭 Executive Overview
+## 🧭 About Me
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-💼 **Senior Full Stack Engineer**<br/>
-Designing robust web architectures, scalable APIs, and responsive enterprise interfaces using Next.js, React 19, and TypeScript.
+🤖 **AI Engineer & Automation Builder**<br/>
+Designing AI-powered web applications, prompt pipelines, and multi-modal autonomous workflows.
 
-🤖 **AI & Agentic Systems Builder**<br/>
-Integrating Gemini & OpenAI LLMs into production pipelines — multi-modal OCR, dynamic prompt chains, and automated agents.
+🚀 **SaaS & Product Shipper**<br/>
+Building production-grade SaaS products from zero to deployment with modern developer tooling.
 
 </td>
 <td width="50%" valign="top">
 
-🏗️ **System Architecture & Cloud**<br/>
-Implementing role-based security (RBAC), multi-tenant Firestore models, asynchronous event queues, and serverless compute.
+🛠️ **Modern Full Stack Core**<br/>
+Specializing in **React**, **Next.js**, **TypeScript**, and **Firebase** with clean architecture.
 
-🚀 **Continuous Builder & Shipper**<br/>
-Translating real-world business bottlenecks into automated, elegant software solutions that drive measurable value.
+⚡ **Problem Solver & Builder**<br/>
+Focused on delivering high utility, snappy user experiences, and automated business operations.
 
 </td>
 </tr>
 </table>
 
-<p align="center"><b>📍 Chennai, India</b> · Available for high-impact Full Stack & AI Engineering roles, consulting & collaborations</p>
+<p align="center"><b>📍 Chennai, India</b> · Open to AI engineering roles, SaaS collaborations & high-impact projects</p>
 
 ---
 
-## 🔨 Featured Systems & Products
+## 🔨 Featured AI & SaaS Systems
 
 <table>
 <tr>
@@ -54,56 +54,55 @@ Translating real-world business bottlenecks into automated, elegant software sol
 
 ### 💼 MANAI CRM
 **Production Real Estate Business Platform**<br/>
-End-to-end multi-tenant business suite featuring automated lead distribution, agent status pipelines, property cataloging, omnichannel communication flows, and strict Role-Based Access Control (RBAC).
+A full-stack business system built for real estate teams — lead assignment pipelines, team management, property cataloging, and omnichannel communication workflows.
 
 ![Next.js](https://img.shields.io/badge/Next.js%2014-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firestore-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)<br/>
-![Status](https://img.shields.io/badge/status-production--ready-10B981?style=flat-square)
+![Status](https://img.shields.io/badge/status-active-10B981?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI Career Intelligence Platform
-**AI-Powered Career & Talent Acceleration**<br/>
-Comprehensive career suite integrating Gemini AI for automated resume parsing, ATS scoring algorithms, real-time mock interview simulation, and tailored roadmap generation.
+### 🤖 AI Career Development Platform
+**AI-Powered Resume Analysis & Interview Prep**<br/>
+Full-featured platform leveraging Gemini AI for resume ATS compatibility scoring, automated career roadmap generation, and live mock interview practice.
 
 ![React](https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)<br/>
 <a href="https://github.com/sriram162007/AI-Powered-Career-Development-Platform"><img src="https://img.shields.io/badge/code-GitHub-181717?style=flat-square&logo=github" alt="Code"/></a>
-&nbsp;![Status](https://img.shields.io/badge/status-active-10B981?style=flat-square)
+&nbsp;![Status](https://img.shields.io/badge/status-live-10B981?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💬 WhatsApp AI Expense Engine
-**Multimodal Conversational Finance Bot**<br/>
-Hands-free expense management engine that ingests voice notes, scanned receipts (OCR), and natural chat via WhatsApp, parses items into structured JSON via Gemini AI, and syncs to live financial tracking sheets.
+### 💬 WhatsApp AI Expense Tracker
+**Multimodal AI Automation Workflow**<br/>
+Autonomous expense tracking engine integrating WhatsApp to capture expenses from voice notes, physical receipt photos (OCR), and text via Gemini AI into live cloud spreadsheets.
 
-![n8n](https://img.shields.io/badge/n8n%20Workflows-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio%20API-F22F46?style=flat-square&logo=twilio&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini%20Multimodal-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n%20Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio%20WhatsApp-F22F46?style=flat-square&logo=twilio&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)<br/>
-![Status](https://img.shields.io/badge/status-deployed-10B981?style=flat-square)
+![Status](https://img.shields.io/badge/status-built-10B981?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔍 QR Resolution System
 **Smart Issue Reporting & Automated Resolution**<br/>
-QR-activated incident management platform allowing friction-free grievance logging, geolocation-aware dispatching, live ticket status progression, and administrative analytics dashboards.
+QR-based complaint resolution platform that simplifies filing, tracking, and managing issues through location-based QR scanning and real-time dashboard workflows.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)<br/>
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)<br/>
 <a href="https://github.com/sriram162007/Qr-resolution"><img src="https://img.shields.io/badge/code-GitHub-181717?style=flat-square&logo=github" alt="Code"/></a>
-&nbsp;![Status](https://img.shields.io/badge/status-deployed-10B981?style=flat-square)
+&nbsp;![Status](https://img.shields.io/badge/status-built-10B981?style=flat-square)
 
 </td>
 </tr>
@@ -111,11 +110,11 @@ QR-activated incident management platform allowing friction-free grievance loggi
 
 ---
 
-## 🛠 Tech Stack & Ecosystem
+## 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,python&theme=dark" alt="Frontend & Core Languages"/><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,git,github,postman,vercel,vscode&theme=dark" alt="Backend, Cloud & Tooling"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,python&theme=dark" alt="Frontend & Languages"/><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,git,github,postman,vercel,vscode&theme=dark" alt="Backend & Tools"/>
 </p>
 
 <p align="center">
@@ -129,14 +128,14 @@ QR-activated incident management platform allowing friction-free grievance loggi
 
 ---
 
-## 💡 Engineering Highlights & Practices
+## 💡 Engineering Highlights
 
-| Discipline | Core Strengths |
+| Focus Area | Core Strengths |
 |---|---|
-| ⚡ **Performance & Optimization** | Code-splitting, memoization patterns, server-side rendering (SSR), and sub-second asset hydration |
-| 🤖 **AI & LLM Integration** | Structured JSON extraction, multimodal media pipelines (Audio/OCR), and prompt engineering |
-| 🔐 **Architecture & Security** | Granular Role-Based Access Control (RBAC), sanitized REST endpoints, and authenticated webhook listeners |
-| 🔄 **Automated Workflows** | Resilient background event handling, automated messaging workflows, and cloud-synced databases |
+| 🤖 **AI & Agentic Workflows** | Implementing Gemini & OpenAI models, prompt optimization, structured JSON output, and OCR pipelines |
+| ⚡ **Modern Web Systems** | Scalable architectures with React 19, Next.js, TypeScript, Tailwind CSS, and Framer Motion |
+| 🔄 **Workflow Automation** | End-to-end automation connecting webhooks, n8n, Twilio, and cloud databases |
+| 🔐 **Cloud & Security** | Role-Based Access Control (RBAC), Firebase Auth, and real-time Firestore database rules |
 
 ---
 
@@ -147,11 +146,11 @@ QR-activated incident management platform allowing friction-free grievance loggi
   <a href="https://github.com/sriram162007/Qr-resolution"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sriram162007&repo=Qr-resolution&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Qr-resolution"/></a>
   <a href="https://github.com/sriram162007/sriram.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sriram162007&repo=sriram.github.io&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Portfolio"/></a>
 </p>
-<p align="center">Explore more projects: <a href="https://github.com/sriram162007?tab=repositories">all repositories →</a></p>
+<p align="center">Explore more: <a href="https://github.com/sriram162007?tab=repositories">all repositories →</a></p>
 
 ---
 
-## 📈 Activity & Engineering Velocity
+## 📈 Activity & Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sriram162007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
@@ -164,5 +163,5 @@ QR-activated incident management platform allowing friction-free grievance loggi
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,50:4FACFE,100:7C3AED&height=110&section=footer&text=Engineering%20with%20Curiosity%20·%20Shipping%20with%20Precision&fontSize=22&fontColor=ffffff&fontAlignY=70" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,50:4FACFE,100:7C3AED&height=110&section=footer&text=Building%20AI-Powered%20Products%20·%20Engineering%20with%20Curiosity&fontSize=22&fontColor=ffffff&fontAlignY=70" alt="Footer"/>
 </p>
