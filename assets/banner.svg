@@ -1,67 +1,63 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="SRI RAM — CSE (AI) Student | Aspiring AI Engineer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Sri Ram — AI Engineer | AI Automation Builder">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#141820"/>
-      <stop offset="100%" stop-color="#0A0C10"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="0.55" stop-color="#121A33"/>
+      <stop offset="1" stop-color="#1B1240"/>
     </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#61DAFB"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#61DAFB" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#61DAFB" stop-opacity="0"/>
+    </radialGradient>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1" fill="#FFFFFF" fill-opacity="0.04"/>
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="1"/>
     </pattern>
+    <style>
+      .orbit { transform-origin: 960px 150px; animation: spin 24s linear infinite; }
+      .orbit2 { transform-origin: 960px 150px; animation: spin 16s linear infinite reverse; }
+      .pulse { animation: pulse 3s ease-in-out infinite; }
+      .node { animation: blink 2.4s ease-in-out infinite; }
+      .n2 { animation-delay: .8s; } .n3 { animation-delay: 1.6s; }
+      @keyframes spin { to { transform: rotate(360deg); } }
+      @keyframes pulse { 0%,100% { opacity: .55; } 50% { opacity: 1; } }
+      @keyframes blink { 0%,100% { opacity: .35; } 50% { opacity: 1; } }
+      text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif; }
+    </style>
   </defs>
 
-  <!-- Background Base -->
-  <rect width="1200" height="240" rx="10" fill="url(#bg)"/>
-  <rect width="1200" height="240" rx="10" fill="url(#grid)"/>
-  <rect width="1200" height="240" rx="10" fill="none" stroke="#222938" stroke-width="1.5"/>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
 
-  <!-- Left Accent Cyan Bar -->
-  <rect x="0" y="30" width="4" height="180" rx="2" fill="#00E5FF"/>
-
-  <!-- Top Metadata Tag -->
-  <g transform="translate(60, 52)">
-    <circle cx="5" cy="5" r="4" fill="#00E5FF"/>
-    <text x="20" y="9" fill="#64748B" font-family="'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="12" font-weight="600" letter-spacing="1.5">CSE (AI) STUDENT // SATHYABAMA INSTITUTE OF SCIENCE &amp; TECHNOLOGY</text>
+  <!-- React-meets-AI emblem on Right -->
+  <circle cx="960" cy="150" r="140" fill="url(#glow)" class="pulse"/>
+  <g class="orbit" fill="none" stroke="url(#accent)" stroke-width="3" stroke-opacity="0.9">
+    <ellipse cx="960" cy="150" rx="110" ry="40"/>
+    <ellipse cx="960" cy="150" rx="110" ry="40" transform="rotate(60 960 150)"/>
+    <ellipse cx="960" cy="150" rx="110" ry="40" transform="rotate(120 960 150)"/>
   </g>
-
-  <!-- Name Headline -->
-  <text x="60" y="112" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="44" font-weight="800" letter-spacing="-1">
-    SRI RAM
-  </text>
-
-  <!-- Subtitle -->
-  <text x="60" y="148" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="500">
-    CSE (AI) Student | Aspiring AI Engineer
-  </text>
-
-  <!-- Tagline -->
-  <g transform="translate(60, 188)">
-    <text x="0" y="0" fill="#00E5FF" font-family="'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="600">&gt;</text>
-    <text x="20" y="0" fill="#38BDF8" font-family="'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="13" font-weight="500">“Building projects, learning by doing.”</text>
+  <g class="orbit2">
+    <circle cx="1070" cy="150" r="6" fill="#A78BFA"/>
+    <circle cx="905" cy="55" r="5" fill="#61DAFB"/>
+    <circle cx="905" cy="245" r="5" fill="#61DAFB"/>
   </g>
-
-  <!-- Right Code Card Accent -->
-  <g transform="translate(930, 48)">
-    <rect width="210" height="144" rx="8" fill="#0D1017" stroke="#1E2533" stroke-width="1.2"/>
-    <line x1="0" y1="28" x2="210" y2="28" stroke="#1E2533" stroke-width="1.2"/>
-    <circle cx="16" cy="14" r="3.5" fill="#EF4444" fill-opacity="0.7"/>
-    <circle cx="28" cy="14" r="3.5" fill="#F59E0B" fill-opacity="0.7"/>
-    <circle cx="40" cy="14" r="3.5" fill="#10B981" fill-opacity="0.7"/>
-    <text x="56" y="18" fill="#4B5563" font-family="'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10">developer.ts</text>
-
-    <text x="16" y="54" fill="#00E5FF" font-family="'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11">const</text>
-    <text x="56" y="54" fill="#E2E8F0" font-family="'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11">profile = {</text>
-
-    <text x="26" y="74" fill="#64748B" font-family="'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11">status:</text>
-    <text x="80" y="74" fill="#34D399" font-family="'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11">'Learning'</text>
-    <text x="150" y="74" fill="#64748B" font-family="'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11">,</text>
-
-    <text x="26" y="94" fill="#64748B" font-family="'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11">focus:</text>
-    <text x="74" y="94" fill="#38BDF8" font-family="'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11">'AI + Web'</text>
-    <text x="144" y="94" fill="#64748B" font-family="'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11">,</text>
-
-    <text x="26" y="114" fill="#64748B" font-family="'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11">base:</text>
-    <text x="68" y="114" fill="#94A3B8" font-family="'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11">'Chennai'</text>
-
-    <text x="16" y="132" fill="#E2E8F0" font-family="'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11">};</text>
+  <!-- neural core -->
+  <g stroke="#E2E8F0" stroke-opacity="0.5" stroke-width="1.5">
+    <line x1="940" y1="135" x2="980" y2="135"/>
+    <line x1="940" y1="135" x2="960" y2="168"/>
+    <line x1="980" y1="135" x2="960" y2="168"/>
   </g>
+  <circle cx="940" cy="135" r="7" fill="#61DAFB" class="node"/>
+  <circle cx="980" cy="135" r="7" fill="#A78BFA" class="node n2"/>
+  <circle cx="960" cy="168" r="7" fill="#F0ABFC" class="node n3"/>
+
+  <!-- Text on Left -->
+  <text x="70" y="98" fill="#94A3B8" font-size="20" letter-spacing="3">HI, I'M</text>
+  <text x="68" y="160" fill="#F8FAFC" font-size="64" font-weight="700">Sri Ram</text>
+  <rect x="70" y="182" width="110" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="70" y="225" fill="#E2E8F0" font-size="26" font-weight="600">AI Engineer <tspan fill="url(#accent)">| AI Automation Builder</tspan></text>
+  <text x="70" y="260" fill="#94A3B8" font-size="17">CSE (AI) @ Sathyabama  ·  Building AI Apps &amp; SaaS  ·  Chennai, India</text>
 </svg>
